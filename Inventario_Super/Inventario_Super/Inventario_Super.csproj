@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2DB98F2E-F039-407F-969A-4D425636EBBD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Inventario_Super</RootNamespace>
+    <AssemblyName>Inventario_Super</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\ConexionBD.cs" />
+    <Compile Include="Clases\InterfaceInfoU.cs" />
+    <Compile Include="Formularios\EntradaSalidaProductos\FormEntrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\EntradaSalidaProductos\FormEntrada.Designer.cs">
+      <DependentUpon>FormEntrada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\EntradaSalidaProductos\FormSalida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\EntradaSalidaProductos\FormSalida.Designer.cs">
+      <DependentUpon>FormSalida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormsEmpleados\FormAgregarE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormsEmpleados\FormAgregarE.Designer.cs">
+      <DependentUpon>FormAgregarE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormsEmpleados\FormConsultarE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormsEmpleados\FormConsultarE.Designer.cs">
+      <DependentUpon>FormConsultarE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormsEmpleados\FormEditarE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormsEmpleados\FormEditarE.Designer.cs">
+      <DependentUpon>FormEditarE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormsEmpleados\FormEliminarE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormsEmpleados\FormEliminarE.Designer.cs">
+      <DependentUpon>FormEliminarE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormInicio.Designer.cs">
+      <DependentUpon>FormInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormMenu.Designer.cs">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormsProductos\FormAgregarP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormsProductos\FormAgregarP.Designer.cs">
+      <DependentUpon>FormAgregarP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormsProductos\FormConsultarP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormsProductos\FormConsultarP.Designer.cs">
+      <DependentUpon>FormConsultarP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormsProductos\FormEditarP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormsProductos\FormEditarP.Designer.cs">
+      <DependentUpon>FormEditarP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormsProductos\FormEliminarP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormsProductos\FormEliminarP.Designer.cs">
+      <DependentUpon>FormEliminarP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormsUsuarios\FormAgregarU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormsUsuarios\FormAgregarU.Designer.cs">
+      <DependentUpon>FormAgregarU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormsUsuarios\FormConsultarU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormsUsuarios\FormConsultarU.Designer.cs">
+      <DependentUpon>FormConsultarU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormsUsuarios\FormEditarU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormsUsuarios\FormEditarU.Designer.cs">
+      <DependentUpon>FormEditarU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FormsUsuarios\FormEliminarU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FormsUsuarios\FormEliminarU.Designer.cs">
+      <DependentUpon>FormEliminarU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formularios\EntradaSalidaProductos\FormEntrada.resx">
+      <DependentUpon>FormEntrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\EntradaSalidaProductos\FormSalida.resx">
+      <DependentUpon>FormSalida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormsEmpleados\FormAgregarE.resx">
+      <DependentUpon>FormAgregarE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormsEmpleados\FormConsultarE.resx">
+      <DependentUpon>FormConsultarE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormsEmpleados\FormEditarE.resx">
+      <DependentUpon>FormEditarE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormsEmpleados\FormEliminarE.resx">
+      <DependentUpon>FormEliminarE.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormInicio.resx">
+      <DependentUpon>FormInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormMenu.resx">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormsProductos\FormAgregarP.resx">
+      <DependentUpon>FormAgregarP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormsProductos\FormConsultarP.resx">
+      <DependentUpon>FormConsultarP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormsProductos\FormEditarP.resx">
+      <DependentUpon>FormEditarP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormsProductos\FormEliminarP.resx">
+      <DependentUpon>FormEliminarP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormsUsuarios\FormAgregarU.resx">
+      <DependentUpon>FormAgregarU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormsUsuarios\FormConsultarU.resx">
+      <DependentUpon>FormConsultarU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormsUsuarios\FormEditarU.resx">
+      <DependentUpon>FormEditarU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FormsUsuarios\FormEliminarU.resx">
+      <DependentUpon>FormEliminarU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

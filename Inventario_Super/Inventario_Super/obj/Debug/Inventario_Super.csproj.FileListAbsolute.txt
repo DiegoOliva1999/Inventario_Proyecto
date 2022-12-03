@@ -1,0 +1,75 @@
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\bin\Debug\Inventario_Super.exe.config
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\bin\Debug\Inventario_Super.exe
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\bin\Debug\Inventario_Super.pdb
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.csprojAssemblyReference.cache
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Properties.Resources.resources
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.csproj.GenerateResource.cache
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.csproj.CoreCompileInputs.cache
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.exe
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.pdb
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.FormInicio.resources
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormMenu.resources
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormConsultarE.resources
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormAgregarE.resources
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormEditarE.resources
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormEliminarE.resources
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsUsuarios.FormConsultarU.resources
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsUsuarios.FormAgregarU.resources
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsUsuarios.FormEditarU.resources
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsUsuarios.FormEliminarU.resources
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsProductos.FormConsultarP.resources
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsProductos.FormAgregarP.resources
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsProductos.FormEliminarP.resources
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsProductos.FormEditarP.resources
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.EntradaSalidaProductos.FormEntrada.resources
+C:\Users\50360\3D Objects\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.EntradaSalidaProductos.FormSalida.resources
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\bin\Debug\Inventario_Super.exe.config
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\bin\Debug\Inventario_Super.exe
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\bin\Debug\Inventario_Super.pdb
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.csprojAssemblyReference.cache
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.EntradaSalidaProductos.FormEntrada.resources
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.EntradaSalidaProductos.FormSalida.resources
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormAgregarE.resources
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormConsultarE.resources
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormEditarE.resources
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormEliminarE.resources
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.FormInicio.resources
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormMenu.resources
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsProductos.FormAgregarP.resources
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsProductos.FormConsultarP.resources
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsProductos.FormEditarP.resources
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsProductos.FormEliminarP.resources
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsUsuarios.FormAgregarU.resources
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsUsuarios.FormConsultarU.resources
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsUsuarios.FormEditarU.resources
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsUsuarios.FormEliminarU.resources
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Properties.Resources.resources
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.csproj.GenerateResource.cache
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.csproj.CoreCompileInputs.cache
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.exe
+C:\Users\50360\3D Objects\Estructura de Datos\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.pdb
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\bin\Debug\Inventario_Super.exe.config
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\bin\Debug\Inventario_Super.exe
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\bin\Debug\Inventario_Super.pdb
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.csprojAssemblyReference.cache
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.EntradaSalidaProductos.FormEntrada.resources
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.EntradaSalidaProductos.FormSalida.resources
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormAgregarE.resources
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormConsultarE.resources
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormEditarE.resources
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormEliminarE.resources
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.FormInicio.resources
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormMenu.resources
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsProductos.FormAgregarP.resources
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsProductos.FormConsultarP.resources
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsProductos.FormEditarP.resources
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsProductos.FormEliminarP.resources
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsUsuarios.FormAgregarU.resources
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsUsuarios.FormConsultarU.resources
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsUsuarios.FormEditarU.resources
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Formularios.FormsUsuarios.FormEliminarU.resources
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.Properties.Resources.resources
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.csproj.GenerateResource.cache
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.csproj.CoreCompileInputs.cache
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.exe
+E:\Proyectos UNAB\ESTRUCTURA DE DATOS\Proyecto Estructura de Datos\Inventario_Super\Inventario_Super\obj\Debug\Inventario_Super.pdb
